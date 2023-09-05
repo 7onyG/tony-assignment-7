@@ -1,6 +1,5 @@
 package com.coderscampus.assignment7;
 
-
 public interface CustomList<T> {
 	/**
 	 * This method should add a new item into the <code>CustomList</code> and should

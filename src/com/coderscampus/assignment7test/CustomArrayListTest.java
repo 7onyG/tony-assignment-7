@@ -1,9 +1,12 @@
-package com.coderscampus.assignment7;
+package com.coderscampus.assignment7test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
+
+import com.coderscampus.assignment7.CustomArrayList;
+import com.coderscampus.assignment7.CustomList;
 
 class CustomArrayListTest {
 	

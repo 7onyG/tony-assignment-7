@@ -1,6 +1,5 @@
 package com.coderscampus.assignment7;
 
-
 public class CustomArrayList<T> implements CustomList<T> {
 	Object[] items = new Object[10];
 	int size = 0;
