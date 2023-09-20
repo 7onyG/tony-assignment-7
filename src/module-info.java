@@ -5,6 +5,6 @@
  * @author anton
  *
  */
-module TonyAssignment7 {
+module tony_assignment_7 {
 	requires org.junit.jupiter.api;
 }
